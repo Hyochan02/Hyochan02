@@ -11,14 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&">
-</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Codding%20Factory&fontSize=70&fontAlignY=35)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyochan02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyochan02&layout=compact)](https://github.com/Hyochan02/github-readme-stats)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&">
-</p>
