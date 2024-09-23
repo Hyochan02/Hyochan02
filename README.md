@@ -1,8 +1,5 @@
-## Hi there 👋
-
 <!--
 **Hyochan02/Hyochan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyochan's%20Codding%20Story&fontSize=60&animation=fadeIn&fontAlignY=38">
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyochan02&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyochan02&layout=compact)](https://github.com/Hyochan02/github-readme-stats)
