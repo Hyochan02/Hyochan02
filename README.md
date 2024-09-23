@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Codding%20Factory&fontSize=60&fontAlignY=35)
-<h3 align="center">📚 Studying 📚</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=80&duration=4000&pause=1000&color=000000&background=C1FF0B00&center=true&vCenter=true&width=800&height=150&lines=Codding+Factory" alt="Typing SVG" /></a>
+</div>
+
+<h3 align="center">💻 Now Studying 💻</h3>
 
 
 
