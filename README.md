@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Codding%20Factory&fontSize=60&fontAlignY=35)
------------
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 
