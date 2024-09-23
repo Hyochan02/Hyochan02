@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyochan's%20Code&fontSize=90&animation=fadeIn&fontAlignY=45">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyochan02&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyochan02&layout=compact)](https://github.com/Hyochan02/github-readme-stats)
+
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&">
+</p>
