@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2CC0F,50:F2D750,100:F2DE79&height=100&section=header)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=80&duration=4000&pause=1000&color=000000&background=C1FF0B00&center=true&vCenter=true&width=800&height=150&lines=Codding+Factory" alt="Typing SVG" /></a>
 </div>
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
   </a>  
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F2CC0F,50:F2D750,100:F2DE79&height=100&section=footer)
