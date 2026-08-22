@@ -60,7 +60,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyochan02&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>   -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Hyochan02" width=41%  />
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Hyochan02&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Hyochan02"
+  width="600"
+  height="300"
+/>
 </a>
 </div>
 
