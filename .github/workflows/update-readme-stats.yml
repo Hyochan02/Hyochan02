@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Hyochan02&show_icons=true&hide_border=true&bg_color=135,BCECFF,C2BBFF&title_color=4C3F91&icon_color=6C63FF&text_color=333333
+          options: username=Hyochan02&show_icons=true&hide_border=true&bg_color=000000&title_color=B0F7FF&icon_color=A5DEFD&text_color=FFFFFF&ring_color=9BC6FB
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
